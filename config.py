@@ -1,5 +1,5 @@
 # Coonect to postgre database with the connect() function or 
-# access connection parameters in a config.py file from the database.ini file for a security
+# access connection parameters in a config.py file from the database.ini file for security
 
 from configparser import ConfigParser
 
